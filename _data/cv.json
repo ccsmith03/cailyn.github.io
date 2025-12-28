@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Cailyn Smith",
+    "email": "cailyns@andrew.cmu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://cailyn.github.io",
+    "summary": "Robotics PhD student at Carnegie Mellon University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Pittsburgh, PA",
       "countryCode": "US",
       "region": ""
     },
@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=Feh9gg8AAAAJ&h"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "cailyn-smith",
+        "url": "https://www.linkedin.com/in/cailyn-smith/"
       },
       {
         "network": "GitHub",
@@ -65,6 +65,13 @@
   "interests": [],
   "references": [],
   "publications": [
+    {
+      "name": "Leveraging Intentional Factors and Task Context to Predict Linguistic Norm Adherence",
+      "publisher": "CogSci",
+      "releaseDate": "2022-01-01",
+      "website": "https://academicpages.github.io/files/cogsci2022.pdf",
+      "summary": "Modeled human linguistic politeness norms with machine learning to predict when robots should use politeness modifiers in different social contexts."
+    },
     {
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
